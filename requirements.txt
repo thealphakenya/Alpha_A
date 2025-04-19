@@ -1,0 +1,15 @@
+torch
+transformers
+torchaudio
+speechbrain
+gtts
+flask
+tensorflow
+scikit-learn
+pandas
+numpy
+tqdm
+opencv-python
+psutil
+gitpython
+kagglehub
